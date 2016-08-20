@@ -1,0 +1,18 @@
+#picture{
+	margin-right: 100px;
+	margin-left: 100px;
+	padding-top: 37px;
+	padding-bottom: 37px;
+	position: relative;
+	float: left;
+}
+#container{
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 50px;
+	float: center;
+
+	
+}
+
+
