@@ -1,18 +1,23 @@
 #picture{
-	margin-right: 100px;
+	/*margin-right: 100px;
 	margin-left: 100px;
 	padding-top: 37px;
 	padding-bottom: 37px;
-	position: relative;
+	/*position: relative;*/
 	float: left;
+	width: 500px;
+	height: 400px;
 }
 #container{
 	margin-right: 100px;
 	margin-left: 100px;
 	margin-bottom: 50px;
-	float: center;
+	float: right;
 
-	
+}
+.page-header{
+	float: right;
+	/*position: relative;*/
 }
 
 
