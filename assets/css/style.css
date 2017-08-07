@@ -9,14 +9,15 @@
 	height: 400px;
 }
 #container{
-	margin-right: 100px;
+	/*margin-right: 100px;
 	margin-left: 100px;
 	margin-bottom: 50px;
-	float: right;
+	*/
+	position: relative;
 
 }
 .page-header{
-	float: right;
+	/*float: right;*/
 	/*position: relative;*/
 }
 
